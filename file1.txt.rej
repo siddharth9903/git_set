@@ -1,0 +1,7 @@
+diff a/file1.txt b/file1.txt	(rejected hunks)
+@@ -1 +0,3 @@
+-123333444
+\ No newline at end of file
++123333444
++
++we are interuupting directly from github
